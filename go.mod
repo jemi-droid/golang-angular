@@ -1,4 +1,4 @@
-module home/jemi/todo
+module home/jemi/go-angular
 
 go 1.18
 
